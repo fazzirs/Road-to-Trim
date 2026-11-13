@@ -1,0 +1,6 @@
+{
+    "name": "Road to Trim",
+    "version": "1.1.0",
+    "contactEmailAddress": "fazzirs@proton.me",
+    "optionalDependencies": { "prettyui": 6398181 }
+}
