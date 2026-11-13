@@ -1,5 +1,7 @@
 # Road to Trim
 
+![Road to Trim](assets/banner.png)
+
 Your personal route to the Trimmed Completionist cape. Reads your account and tells you exactly what to do next.
 
 ## About
